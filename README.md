@@ -15,3 +15,7 @@
   - Kristin Y. Rozier
 * Computing Topologies
   - L. W. Brinn
+* Software Model Checking for People Who Love Automata
+  - Matthias Heizmann, Jochen Hoenicke, and Andreas Podelski
+* Simpler Proofs with Decentralized Invariants
+  - Jean-Christophe Filliâtre
