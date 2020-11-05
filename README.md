@@ -29,3 +29,5 @@
   - Leslie Lamport et al
 * Distributed consensus revised
   - Heidi Howard
+* What good is temporal logic ?
+  - Lesslie Lamport
