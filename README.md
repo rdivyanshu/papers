@@ -23,3 +23,5 @@
   - Ulf Norell
 * Software Model Checking
   - Ranjit Jhala and Rupak Majumdar
+* Armada: Low-Effort Verification of High-Performance Concurrent Programs
+  - Jacob R. Lorch et al
