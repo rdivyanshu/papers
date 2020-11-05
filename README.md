@@ -21,3 +21,5 @@
   - Jean-Christophe Filliâtre
 * Dependently Typed Programming in Agda
   - Ulf Norell
+* Software Model Checking
+  - Ranjit Jhala and Rupak Majumdar
