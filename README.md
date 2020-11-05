@@ -19,3 +19,5 @@
   - Matthias Heizmann, Jochen Hoenicke, and Andreas Podelski
 * Simpler Proofs with Decentralized Invariants
   - Jean-Christophe Filliâtre
+* Dependently Typed Programming in Agda
+  - Ulf Norell
