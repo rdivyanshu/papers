@@ -31,3 +31,5 @@
   - Heidi Howard
 * What good is temporal logic ?
   - Lesslie Lamport
+* Type Systems as Macros
+  - Stephen Chang et al
