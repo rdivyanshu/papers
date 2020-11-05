@@ -25,3 +25,7 @@
   - Ranjit Jhala and Rupak Majumdar
 * Armada: Low-Effort Verification of High-Performance Concurrent Programs
   - Jacob R. Lorch et al
+* Reconfiguring a State Machine
+  - Leslie Lamport et al
+* Distributed consensus revised
+  - Heidi Howard
