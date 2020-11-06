@@ -33,3 +33,5 @@
   - Lesslie Lamport
 * Type Systems as Macros
   - Stephen Chang et al
+* The saga of minimum spanning trees
+  - Martin Mareš
