@@ -35,3 +35,5 @@
   - Stephen Chang et al
 * The saga of minimum spanning trees
   - Martin Mareš
+* IronFleet: Proving Practical Distributed Systems Correct
+  - Chris Hawblitzel et al
