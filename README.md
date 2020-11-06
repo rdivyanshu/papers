@@ -37,3 +37,5 @@
   - Martin Mareš
 * IronFleet: Proving Practical Distributed Systems Correct
   - Chris Hawblitzel et al
+* Satisfiability modulo theories: introduction and applications
+  - Leonardo de Moura and Nikolaj Bjørner
