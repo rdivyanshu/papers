@@ -39,3 +39,5 @@
   - Chris Hawblitzel et al
 * Satisfiability modulo theories: introduction and applications
   - Leonardo de Moura and Nikolaj Bjørner
+* Ivy: A Multi-modal Verification Tool for Distributed Algorithms
+  - K. L. McMillan & Oded Padon
