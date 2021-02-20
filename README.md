@@ -41,3 +41,8 @@
   - Leonardo de Moura and Nikolaj Bjørner
 * Ivy: A Multi-modal Verification Tool for Distributed Algorithms
   - K. L. McMillan & Oded Padon
+* An Incremental Approach to Compiler Construction
+  - Abdulaziz Ghuloum
+* A Lightweight Symbolic Virtual Machine for Solver-Aided Host Languages
+  - Emina Torlak & Rastislav Bodik
+
