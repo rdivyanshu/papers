@@ -45,4 +45,5 @@
   - Abdulaziz Ghuloum
 * A Lightweight Symbolic Virtual Machine for Solver-Aided Host Languages
   - Emina Torlak & Rastislav Bodik
-
+* A simple incremental development of a property-based testing
+  - Rudy Braquehais et al
