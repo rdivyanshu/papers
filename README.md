@@ -47,3 +47,7 @@
   - Emina Torlak & Rastislav Bodik
 * A simple incremental development of a property-based testing
   - Rudy Braquehais et al
+* Intermediate Representations in Imperative Compilers: A Survey
+  - James Stanier et al
+* Lock-Free Locks Revisited
+  - Naama Ben-David et al
